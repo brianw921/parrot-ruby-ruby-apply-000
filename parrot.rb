@@ -8,3 +8,4 @@ def parrot(string="Squawk!")
 end
 
 p parrot("brian")
+p parrot
