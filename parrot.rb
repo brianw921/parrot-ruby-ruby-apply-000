@@ -7,4 +7,4 @@ def parrot(string="Squawk!")
   return "#{string}"
 end
 
-p parrot(brian)
+p parrot("brian")
