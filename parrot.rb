@@ -4,7 +4,7 @@
 
 def parrot(string="Squawk!")
   puts "#{string}"
-  return "#{string}"
+  
 end
 
 p parrot("brian")
